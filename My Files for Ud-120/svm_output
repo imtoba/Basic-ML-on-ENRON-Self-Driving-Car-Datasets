@@ -1,0 +1,6 @@
+iresh@ubuntu:~/ud120-projects-master/svm$ ./svm_author_id2.py
+no. of Chris training emails: 7936
+no. of Sara training emails: 7884
+training time: 1007.843 s
+Prediction Time: 100.076 s
+0.984072810011
